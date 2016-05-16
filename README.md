@@ -5,7 +5,11 @@ This library provides a background service to track the battery usage and report
 
 ### Installation
 
-..in process
+```gradle
+dependencies {
+    compile 'com.github.lvabarajithan:batterystatslibrary:1.0.0'
+}
+```
 
 ### Screenshots
 <img src="https://github.com/lvabarajithan/BatteryStatsLibrary/blob/master/sample.png" width="300">
